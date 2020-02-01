@@ -1,4 +1,8 @@
+/**
 
+ Daniel Martinez Villa Version 1.2
+
+ */
 public class Rectangulo_DMV extends FiguraGeometrica_DMV {
 	private double l1;
 	private double l2;
