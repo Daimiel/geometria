@@ -14,7 +14,6 @@ public class Circulo extends FiguraGeometrica {
 		return radio * radio * PI;
 
 	}
-	
 	@Override
 	public double perimetro() {
 		return radio * 2 * PI;
